@@ -1,13 +1,13 @@
-dia_semana = input("Indica dia de la semana:")
-estacion = input("Indica la estacion actual:")
-soleado = input("Indica si esta soleado:")
-lluvia = input("Indica si esta lloviendo:")
+dia_semana = input ("Indica dia de la semana:")
+estacion = input ("Indica la estacion actual:")
+soleado = input ("Indica si esta soleado:")
+lluvia = input ("Indica si esta lloviendo:")
 hora = int(input("Indica la hora:"))
 temperatura = int(input("Indica la temperatura:")
 if (dia_semana == "domingo") :
   print("Poner reloj bonito")
 else:
-  print("No poner reloj bonito")
+  print ("No poner reloj bonito")
 if (estacion == "verano") and (temperatura <= 15) and (((hora >= 22:00) and (hora <= 00:00)) and ((hora >= 00:00) and (hora <= 04:00)) :
   print ("Vestire pantalon largo")
 else:
