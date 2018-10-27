@@ -22,9 +22,7 @@ Dins del parentasis de condició tenim:
 
 **2.** Un comparador: = <> >= <= < > --> on els dos primers son per números i lletres i la resta només per números.
 
-**3.** --> Constant: tipus númerica (ex: 8) o tipus alfanumèrica (ex: "hola") (las lletres sempre entre "")
-
-       --> Variable
+**3.** Una variable o una constant de tipus númerica (ex: 8) o tipus alfanumèrica (ex: "hola") (las lletres sempre entre "")
        
 *Exemple:*
        
