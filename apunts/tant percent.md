@@ -8,11 +8,14 @@ preu - (preu * 0,14) --> on el (preu * 0,14) és el descompte.
 *Llarga* --> preu * 1 - (preu * 0,14)
 *Curta* --> preu * (1-0,14)
             preu*(0,86)
+            
 **RECÀRREC**
 preu + (preu * 0,14)
 *Llarga* --> preu * 1 +(preu * 0,14)
 *Curta* --> preu*(1+0,14)
             preu*(1,14)
+            
+            
 **DIA SENSE IVA** 
 preu --> 372€               IVA --> 21%
 
