@@ -1,10 +1,8 @@
 **Rules:**
 
 L'alfabet (el nom) --> anglès --> i pot ser números o lletras.
-
-    (true or false)
-    
-if (Condición) then 
+  
+if (*Condición*) then (on *condició* pot ser **TRUE** or **FALSE** )
 
    cosas () <-- parametros de la funcion
    
