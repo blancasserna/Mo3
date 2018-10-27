@@ -1,7 +1,10 @@
 **PERCENTATGE**
 88% de 14
+
 *Llarga* --> 88*(14/100)
+
 *Curta* --> 88 * 0,14
+
 **DESCOMPTE**
 preu * 0.14
 preu - (preu * 0,14) --> on el (preu * 0,14) és el descompte.
