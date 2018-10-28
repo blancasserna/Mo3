@@ -9,7 +9,7 @@ if (jubilat == "no") and (sexe == "dona") and (cabell == "ros") :
   print ("No pagues")
 else:
   print ("Si pagues")
-if (jubilat == "si) :
+if (jubilat == "si") :
   print ("Gratis")
 else:
   print ("Pagues")
