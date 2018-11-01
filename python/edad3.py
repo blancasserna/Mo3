@@ -1,4 +1,4 @@
-edat = int(input("Indica l'edat:"))
+edat = int(input("Indica la teva edat:"))
 if ((edat >= 18) and (edat <= 23)) :
   print ("Pots entrar en la sessió de joves")
 if (edat == 17) :
