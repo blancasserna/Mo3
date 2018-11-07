@@ -24,7 +24,7 @@ Diferència entre una **nota** i un **comentari** en un document de google: la d
 
 **Alineació** --> vertical (adalt, abaix i en mig) i horitzontal (dreta, esquerra i al centre)
 
-**Suma** -> =SUM ( per sumar rangs, per exemple: (B5:B7;B11:B12:B9) --> depen de l'idioma en que tinguis configurat el teu correu electrònic, podrà ser ; o ,)
+**Suma** -> =SUM ( per sumar rangs, per exemple: (B5:B7;B11:B12:B9)) --> (depen de l'idioma en que tinguis configurat el teu correu electrònic, podrà ser ; o ,)
 
 **Cel·la** -> qualsevol 'caixa'
 
