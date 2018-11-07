@@ -1,6 +1,6 @@
 # coding: utf-8
-any_actual = int(input("Indica l'any actual:")
-any_qualsevol = int(input("Indica un any qualsevol:")
+any_actual = int(input("Indica l'any actual:"))
+any_qualsevol = int(input("Indica un any qualsevol:"))
 if (any_actual == any_qualsevol):
     print("És el mateix any!")
 else:
