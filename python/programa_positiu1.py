@@ -5,9 +5,9 @@ Entrada     Sortida
 -2          no positiu
 0           positiu"""
 
-numero = int(input("Indica un número qualsevol:"))
-if (numero >= 0):
-    print("És un número positiu.")
+nombre = int(input("Indica un nombre qualsevol:"))
+if (nombre >= 0):
+    print("És un nombre positiu.")
 else:
-    if (numero < 0):
-        print("No és un número positiu.")
+    if (nombre < 0):
+        print("No és un nombre positiu.")
