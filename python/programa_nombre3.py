@@ -11,7 +11,7 @@ nombre2 = int(input("Indica un altre nombre:"))
 if (nombre1 < nombre2):
     print(nombre1,nombre2)
 else:
-    if (nombre1 > nombre2)
+    if (nombre1 > nombre2):
         print(nombre1,nombre2)
     else:
         if (nombre1 = nombre2):
