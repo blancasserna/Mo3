@@ -7,6 +7,6 @@ if ( lletra == "T" ):
 else:
     if ( lletra == "C"):
         radi = int(input("Indica el radi del cercle:")
-        area_cercle = (radi * radi * 3,1415)
+        area = (radi * radi * 3,1415)
         print("L'àrea del cercle és" ,area_cercle,)
     
