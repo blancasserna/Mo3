@@ -1,3 +1,4 @@
+#coding: utf-8
 lletra = input("Indica de quina figura vols calcular l'àrea:")
 if ( lletra == "T" ):
     base = int(input("Indica la base del triangle:"))
