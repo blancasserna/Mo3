@@ -2,8 +2,8 @@ lletra = input("Indica de quina figura vols calcular l'àrea:")
 if ( lletra == "T" ):
     base = int(input("Indica la base del triangle:"))
     altura = int(input("Indica l'alçada del triangle:"))
-    area = (base * altura)/2
-    print("L'àrea del triangle és" ,area)
+    area_triangle = (base * altura)/2
+    print("L'àrea del triangle és" ,area_triangle)
 else:
     if ( lletra == "C"):
         radi = int(input("Indica el radi del cercle:"))
