@@ -4,5 +4,4 @@ num2 = int(input("Indica un altre nombre:"))
 if (num1 < num2):
     print(num2)
 else:
-    if (num1 > num2):
-        print(num1)
+    print(num1)
