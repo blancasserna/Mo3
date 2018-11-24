@@ -1,3 +1,5 @@
+#Full de càlcul
+
 Per visualitzar la pantalla completa al navegador --> amb la tecla **F11**.
 
 Per visualitzar més ampliat en el full de càlcul de google, en visualitza- controls compactes, o sinó hi ha una pestanya a la dreta de la pantalla per tenir més espai.
