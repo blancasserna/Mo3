@@ -1,6 +1,6 @@
 ## Paradigme (Cicle de vida)
 
-**1.** En primer de tot hem de llegir l'enunciat, hem de fer una lectura comprensiva dels requeriments.
+**1.** En primer lloc hem de llegir tot l'enunciat fent una lectura comprensiva dels requeriments.
 
 **2.** En segon lloc hem de detectar les variables, subrallar-les i apuntar-les en un paper.
 
