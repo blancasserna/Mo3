@@ -50,6 +50,8 @@ Si vull escriure un **= (igual)** dintre d'una cel·la però no per fer una form
 
 **Now ()** --> Hora i data actual (més específica que la de today)
 
+**AVG** --> ofereix la mitjana numèrica d'un conjunt de dades
+
 **Llistes de distribució (Google Groups)**
 
 És molt útil per quan vols enviar un correu o missatge a molta gent a la vegada, perquè en comptes d'enviar un per un, si tens una llista de distribució (o Google Groups és com google l'anomena, està en les aplicacions del correu) és molt més ràpid. 
