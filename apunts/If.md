@@ -1,4 +1,4 @@
-**Rules:**
+## **Regles:**
 
 L'alfabet (el nom) --> anglès --> i pot ser números o lletras.
   
