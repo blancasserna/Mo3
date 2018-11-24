@@ -1,4 +1,4 @@
-**PERCENTATGE**
+## **PERCENTATGE**
 
 88% de 14
 
@@ -6,7 +6,7 @@
 
 *Curta* --> 88 * 0,14
 
-**DESCOMPTE**
+## **DESCOMPTE**
 
 preu * 0.14
 
@@ -17,7 +17,7 @@ preu - (preu * 0,14) --> on el (preu * 0,14) és el descompte.
 *Curta* --> preu * (1-0,14)
             preu*(0,86)
             
-**RECÀRREC**
+## **RECÀRREC**
 
 preu + (preu * 0,14)
 
@@ -27,7 +27,7 @@ preu + (preu * 0,14)
             preu*(1,14)
             
             
-**DIA SENSE IVA** 
+## **DIA SENSE IVA** 
 
 preu --> 372€               IVA --> 21%
 
