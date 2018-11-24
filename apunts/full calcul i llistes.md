@@ -1,4 +1,4 @@
-##**Full de càlcul**
+## **Full de càlcul**
 
 Per visualitzar la pantalla completa al navegador --> amb la tecla **F11**.
 
