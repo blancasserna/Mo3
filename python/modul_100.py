@@ -14,6 +14,4 @@ for primer_rang in range(0, 100):
                             print("Premeu qualsevol tecla per continuar")
                             for quart_rang in range(300, 365):
                                     print("Volta nº" , quart_rang + 1)
-                                    if (quart_rang % 365) == (365-1):
-                                        if (quart_rang % ) == (65-1):
-                                            print("*")
+                            
