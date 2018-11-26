@@ -15,3 +15,9 @@ for primer_rang in range(0, 100):
                             for quart_rang in range(300, 365):
                                     print("Volta nº" , quart_rang + 1)
                             
+   
+for num_dia in range(0, 365):
+    print("Volta nº" , num_dia + 1)
+    if ((num_dia % 100) == (100-1)):
+        print("Premeu qualsevol tecla per continuar")
+
