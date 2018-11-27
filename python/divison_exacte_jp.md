@@ -1,6 +1,7 @@
  ## Joc de proves
  
- |First header | Second Header|
+ |## Joc de proves|
  |------------ |------------- |
- |Content from cell 1|Content from cell2|
- 
+ |Divident|Divisor|Quocient|Residu|Funciona?|
+ |------------ |------------- |------------ |------------- |------------- |
+ |20|7|2.8|6|Si funciona|
