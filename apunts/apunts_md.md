@@ -1,0 +1,6 @@
+## Taula
+
+ |First header | Second Header|
+ |------------ |------------- |
+ |Content from cell 1|Content from cell2|
+ 
