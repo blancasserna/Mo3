@@ -1,6 +1,6 @@
  ## Joc de proves
  
- |Divident | Divisor|Quocient |Residu|Funciona? |
+ |**Divident | Divisor|Quocient |Residu|Funciona?**|
  |------------ | ------------- | ------------- | ------------- | ------------- |
  |20|7 |2.8|6 |Funciona |
  |14|5 |2|4 | |
