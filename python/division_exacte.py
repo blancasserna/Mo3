@@ -2,7 +2,7 @@
 divident = int(input("Indica un nombre:"))
 divisor = int(input("Indica un segon nombre:"))
 quocient = (divident/divisor)
-residu = quocient-abs(int(quocient))
+residu = (divisor % divident)-1
 if (residu == 0 ):
     print("La divisió és exacte.")
 else: 
