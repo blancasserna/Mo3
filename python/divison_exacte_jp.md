@@ -1,4 +1,5 @@
  ## Joc de proves
  
-Divident     Divisor    Quocient    Residu   Funciona? 
-20           7           2,8
+ |Divident | Divisor|Cocient |Residu | Funciona?|
+ |------------ | ------------- |
+ |Content from cell 1|Content from cell2|
