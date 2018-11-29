@@ -5,7 +5,7 @@ if (divisor == 0) or (divident == 0):
     print("El divisor o divident no poden ser 0.")
 else:
     quocient = (divident/divisor)
-    residu = (divisor % divident)-1
+    residu = divident % divisor  
     if (residu == 0 ):
         print("La divisió és exacte.")
     else: 
