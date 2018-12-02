@@ -2,7 +2,7 @@
  
  |**Gasolina** |**Tipus**|**Quants litros?** |**Import**|**Funciona?**|
  |------------ | ------------- | ------------- | ------------- | ------------- |
- |Super|Normal |20|30€ | |
+ |Super|Normal |20|30€ |Funciona |
  |Super| Turbo|35|54.25€ | |
  |Sense plom|Normal|30|48€  | |
  |Sense plom|Amb aditius | 26 | 42.9€ |  |
