@@ -4,11 +4,11 @@ tipo = input("Indique el tipo que quiere:")
 litros = int(input("Indique cuantos litros quiere:"))
 if (gasolina == "super" and tipo == "normal"):
     tipo_1 = litros * 1.5
-    print("En total seran" ,tipo_1)
+    print("En total seran" ,tipo_1, "€.")
 else:
     if (gasolina == "super" and tipo == "turbo"):
         tipo_2 = litros * 1.55
-        print("En total seran" ,tipo_2)
+        print("En total seran" ,tipo_2, "€.")
     else:
         if (gasolina == "sense plom" and tipo == "normal"):
             tipo_3 = litros * 1.6
@@ -16,12 +16,12 @@ else:
         else:
             if (gasolina == "sense plom" and tipo == "amb aditius"):
                 tipo_4 = litros * 1.65
-                print("En total seran" ,tipo_4)
+                print("En total seran" ,tipo_4, "€.")
             else:
                 if (gasolina == "diesel" and tipo == "normal"):
                     tipo_5 = litros * 1.7
-                    print("En total seran" ,tipo_5)
+                    print("En total seran" ,tipo_5, "€.")
                 else:
                     if (gasolina == "diesel" and tipo == "fast&furius"):
                         tipo_6 = litros * 1.75
-                        print("En total seran" ,tipo_6)
+                        print("En total seran" ,tipo_6, "€.")
