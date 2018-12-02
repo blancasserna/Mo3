@@ -1,6 +1,6 @@
  ## Joc de proves
  
- |**Gasolina** |**Tipus**|**Quants litros?** |**Import**|**Funciona?**|
+ |**Gasolina** |**Tipus**|**Quants litres?** |**Import**|**Funciona?**|
  |------------ | ------------- | ------------- | ------------- | ------------- |
  |Super|Normal |20|30€ |Funciona |
  |Super| Turbo|35|54.25€ | Funciona|
