@@ -1,4 +1,9 @@
 # Versió 1
+""" Llegeix un nombre del teclat si el nombre és:
+- Par
+- Negatiu
+- Entre -10 i 40 """
+
 #coding: utf-8
 num_teclat = int(input(""))
 if ((num_teclat % 2 == 0) and (num_teclat > -11) and (num_teclat < 0)):
@@ -6,7 +11,13 @@ if ((num_teclat % 2 == 0) and (num_teclat > -11) and (num_teclat < 0)):
 else:
     print("No es pot llegir.")
 
-# Versió 2    
+# Versió 2
+""" Lee un número del teclado
+Si es:
+-par
+-entre -10 y 40
+-negativo """
+
 #coding: utf-8
 num_teclat = int(input("Escriu un número del teclat:"))
 if (num_teclat % 2 == 0):
