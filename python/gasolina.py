@@ -1,4 +1,7 @@
 # coding:utf-8
+print("1.Super: Normal: 1.5euros o Turbo: 1.55euros")
+print("2.Sin plomo: Normal:1.6euros o Con aditivos (sabor naranja): 1.65euros")
+print("3.Diesel: Normal: 1.7euros o Fast&Furius: 1.75euros")
 gasolina = input("Que gasolina quiere?")
 tipo = input("Indique el tipo que quiere:")
 litros = int(input("Indique cuantos litros quiere:"))
