@@ -1,3 +1,4 @@
+# Versió 1
 #coding: utf-8
 num_teclat = int(input(""))
 if ((num_teclat % 2 == 0) and (num_teclat > -11) and (num_teclat < 0)):
@@ -5,7 +6,7 @@ if ((num_teclat % 2 == 0) and (num_teclat > -11) and (num_teclat < 0)):
 else:
     print("No es pot llegir.")
 
-    
+# Versió 2    
 #coding: utf-8
 num_teclat = int(input("Escriu un número del teclat:"))
 if (num_teclat % 2 == 0):
